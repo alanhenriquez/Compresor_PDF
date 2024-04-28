@@ -9,9 +9,13 @@
 2. Instala Ghostscript:
 -----------------------
 
-   • (Predeterminada)   El script depende de Ghostscript para la compresión de archivos PDF. Dentro del repositorio, encontrarás el ejecutable de Ghostscript para tu sistema operativo Windows en la carpeta `ghostscript`. Simplemente ejecuta el instalador de Ghostscript correspondiente a tu sistema operativo Windows.
-   • (Opcional)     Tambien puedes optar por descargar el ejecutable que desees desde la pagina oficial: https://ghostscript.com/releases/gsdnld.html
-                    En caso de elegir esta opcion, cambia la ruta del archivo "compresor_pdf.py" por la ruta de tu nueva descargar, el cambio se realizará en la linea 91
+   • (Predeterminada)   El script depende de Ghostscript para la compresión de archivos PDF. Dentro del 
+                        repositorio, encontrarás el ejecutable de Ghostscript para tu sistema operativo 
+                        Windows en la carpeta `ghostscript`. Simplemente ejecuta el instalador de Ghostscript 
+                        correspondiente a tu sistema operativo Windows.
+   • (Opcional)         Tambien puedes optar por descargar el ejecutable que desees desde la pagina oficial: 
+                        (Enlace de descarga oficial) - https://ghostscript.com/releases/gsdnld.html
+                        En caso de elegir esta opcion, cambia la ruta del archivo "compresor_pdf.py" por la ruta de tu nueva descargar, el cambio se realizará en la linea 91
 
 
 3. Abre una Terminal o Línea de Comandos:
