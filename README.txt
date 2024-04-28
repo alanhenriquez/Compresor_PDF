@@ -1,9 +1,12 @@
 1. Clona el Repositorio:
 ------------------------
 
-   Clona el repositorio del proyecto desde GitHub en tu máquina local. Puedes hacerlo ejecutando el siguiente comando en la terminal o línea de comandos:
+   • (Predeterminada) Clona el repositorio del proyecto desde GitHub en tu máquina local. Puedes hacerlo ejecutando el siguiente comando en la terminal o línea de comandos:
 
-   git clone https://github.com/alanhenriquez/Compresor_PDF.git
+        git clone https://github.com/alanhenriquez/Compresor_PDF.git
+
+   • (Opcional) También puedes optar por descargar completo el repositorio desde GitHub
+
 
 
 2. Instala Ghostscript:
